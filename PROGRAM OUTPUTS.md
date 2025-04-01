@@ -19,3 +19,7 @@ LINEAR SEARCH
 3A-QUICK SORT
 ![image](https://github.com/user-attachments/assets/41eb81b1-8188-4369-85df-fd22375cdda8)
 
+3B-MERGE SORT
+![image](https://github.com/user-attachments/assets/95d9704b-cdc4-4bdf-8a91-bb1366058487)
+
+
