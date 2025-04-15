@@ -22,4 +22,11 @@ LINEAR SEARCH
 3B-MERGE SORT
 ![image](https://github.com/user-attachments/assets/95d9704b-cdc4-4bdf-8a91-bb1366058487)
 
+4A-PRIM'S ALGORITHM
+![image](https://github.com/user-attachments/assets/f1a04552-57ec-48f4-9228-465de39da4ec)
+
+4B-KRUSKAL'S ALGORITHM
+
+
+
 
