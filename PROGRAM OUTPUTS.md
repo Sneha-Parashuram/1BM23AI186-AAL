@@ -33,6 +33,11 @@ LINEAR SEARCH
 
 ![image](https://github.com/user-attachments/assets/fdd468db-ee46-4dd2-b218-cd9b3888842c)
 
+DIJKSTRA'S ALGORITHM
+
+![image](https://github.com/user-attachments/assets/7411d037-5686-47fa-82da-91bfadfe2c7e)
+
+
 
 
 
