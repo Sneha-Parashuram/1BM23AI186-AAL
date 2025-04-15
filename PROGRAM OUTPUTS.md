@@ -23,10 +23,15 @@ LINEAR SEARCH
 ![image](https://github.com/user-attachments/assets/95d9704b-cdc4-4bdf-8a91-bb1366058487)
 
 4A-PRIM'S ALGORITHM
+
 ![image](https://github.com/user-attachments/assets/f1a04552-57ec-48f4-9228-465de39da4ec)
 
 4B-KRUSKAL'S ALGORITHM
 ![image (1)](https://github.com/user-attachments/assets/82e11d2c-6a9a-4c02-bfb4-c5140634b1a2)
+
+5-INSERTION SORT
+
+![image](https://github.com/user-attachments/assets/fdd468db-ee46-4dd2-b218-cd9b3888842c)
 
 
 
