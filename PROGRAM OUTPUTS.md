@@ -26,6 +26,8 @@ LINEAR SEARCH
 ![image](https://github.com/user-attachments/assets/f1a04552-57ec-48f4-9228-465de39da4ec)
 
 4B-KRUSKAL'S ALGORITHM
+![image (1)](https://github.com/user-attachments/assets/82e11d2c-6a9a-4c02-bfb4-c5140634b1a2)
+
 
 
 
