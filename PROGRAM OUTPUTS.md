@@ -37,8 +37,12 @@ DIJKSTRA'S ALGORITHM
 
 ![image](https://github.com/user-attachments/assets/7411d037-5686-47fa-82da-91bfadfe2c7e)
 
-TOPOLOGICAL SORT
+6-TOPOLOGICAL SORT
 ![image](https://github.com/user-attachments/assets/f765155e-86c6-409b-9f78-ce418c62a6cb)
+
+7-HEAP SORT
+![image](https://github.com/user-attachments/assets/2c6b0c7e-5c5f-4cf2-af67-6c8aa75fb36d)
+
 
 
 
