@@ -43,6 +43,13 @@ DIJKSTRA'S ALGORITHM
 7-HEAP SORT
 ![image](https://github.com/user-attachments/assets/2c6b0c7e-5c5f-4cf2-af67-6c8aa75fb36d)
 
+9-N-QUEENS
+![image](https://github.com/user-attachments/assets/87e87d11-80e3-43b4-9634-e33aac5307b0)
+
+10-TRAVELLING SALESMAN
+
+
+
 
 
 
