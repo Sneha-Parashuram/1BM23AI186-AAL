@@ -14,7 +14,7 @@ int tsp(int graph[V][V], bool visited[V], int currentPos, int count, int cost, i
         if (!visited[i] && graph[currentPos][i]) {
             visited[i] = true;
             min_cost = tsp(graph, visited, i, count + 1, cost + graph[currentPos][i], min_cost);
-            visited[i] = false; // Backtrack
+            visited[i] = false; 
         }
     }
     return min_cost;
